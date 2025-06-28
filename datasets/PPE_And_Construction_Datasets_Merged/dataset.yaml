@@ -1,0 +1,35 @@
+path:  /content/drive/MyDrive/PPE_and_Construction-Site_Detection_YOLOv9e/datasets/PPE_And_Construction_Datasets_Merged # Dataset root directory
+train: /content/drive/MyDrive/PPE_and_Construction-Site_Detection_YOLOv9e/datasets/PPE_And_Construction_Datasets_Merged/train_files.txt  # Train image list
+val: /content/drive/MyDrive/PPE_and_Construction-Site_Detection_YOLOv9e/datasets/PPE_And_Construction_Datasets_Merged/val_files.txt  # Validation image list
+
+
+# Classes
+names:
+  0:  person
+  1:  ear
+  2:  ear-mufs
+  3:  face
+  4:  face-guard
+  5:  face-mask
+  6:  foot
+  7:  tool
+  8:  glasses
+  9:  gloves
+  10: helmet
+  11: hands
+  12: head
+  13: medical-suit
+  14: shoes
+  15: safety-suit
+  16: safety-vest
+  17: backhoe-loader
+  18: cement-truck
+  19: compactor
+  20: dozer
+  21: dump-truck
+  22: excavator
+  23: grader
+  24: mobile-crane
+  25: tower-crane
+  26: wheel-loader
+  

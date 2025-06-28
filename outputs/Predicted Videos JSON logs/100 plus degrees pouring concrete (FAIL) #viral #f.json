@@ -1,0 +1,2816 @@
+[
+    {
+        "frame": 0,
+        "start_time": "00:00:00,000",
+        "end_time": "00:00:00,166",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 1,
+        "start_time": "00:00:00,033",
+        "end_time": "00:00:00,200",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 2,
+        "start_time": "00:00:00,066",
+        "end_time": "00:00:00,233",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 3,
+        "start_time": "00:00:00,100",
+        "end_time": "00:00:00,266",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 4,
+        "start_time": "00:00:00,133",
+        "end_time": "00:00:00,300",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 5,
+        "start_time": "00:00:00,166",
+        "end_time": "00:00:00,333",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 6,
+        "start_time": "00:00:00,200",
+        "end_time": "00:00:00,366",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 7,
+        "start_time": "00:00:00,233",
+        "end_time": "00:00:00,400",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 8,
+        "start_time": "00:00:00,266",
+        "end_time": "00:00:00,433",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 9,
+        "start_time": "00:00:00,300",
+        "end_time": "00:00:00,466",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 10,
+        "start_time": "00:00:00,333",
+        "end_time": "00:00:00,500",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 11,
+        "start_time": "00:00:00,366",
+        "end_time": "00:00:00,533",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 12,
+        "start_time": "00:00:00,400",
+        "end_time": "00:00:00,566",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 13,
+        "start_time": "00:00:00,433",
+        "end_time": "00:00:00,600",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 14,
+        "start_time": "00:00:00,466",
+        "end_time": "00:00:00,633",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 15,
+        "start_time": "00:00:00,500",
+        "end_time": "00:00:00,666",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 16,
+        "start_time": "00:00:00,533",
+        "end_time": "00:00:00,700",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 17,
+        "start_time": "00:00:00,566",
+        "end_time": "00:00:00,733",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 18,
+        "start_time": "00:00:00,600",
+        "end_time": "00:00:00,766",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 19,
+        "start_time": "00:00:00,633",
+        "end_time": "00:00:00,800",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 20,
+        "start_time": "00:00:00,666",
+        "end_time": "00:00:00,833",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 21,
+        "start_time": "00:00:00,700",
+        "end_time": "00:00:00,866",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 22,
+        "start_time": "00:00:00,733",
+        "end_time": "00:00:00,900",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 23,
+        "start_time": "00:00:00,766",
+        "end_time": "00:00:00,933",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 24,
+        "start_time": "00:00:00,800",
+        "end_time": "00:00:00,966",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 25,
+        "start_time": "00:00:00,833",
+        "end_time": "00:00:01,000",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 26,
+        "start_time": "00:00:00,866",
+        "end_time": "00:00:01,033",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 27,
+        "start_time": "00:00:00,900",
+        "end_time": "00:00:01,066",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 28,
+        "start_time": "00:00:00,933",
+        "end_time": "00:00:01,100",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 29,
+        "start_time": "00:00:00,966",
+        "end_time": "00:00:01,133",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 30,
+        "start_time": "00:00:01,000",
+        "end_time": "00:00:01,166",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 31,
+        "start_time": "00:00:01,033",
+        "end_time": "00:00:01,200",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 32,
+        "start_time": "00:00:01,066",
+        "end_time": "00:00:01,233",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 33,
+        "start_time": "00:00:01,100",
+        "end_time": "00:00:01,266",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 34,
+        "start_time": "00:00:01,133",
+        "end_time": "00:00:01,300",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 35,
+        "start_time": "00:00:01,166",
+        "end_time": "00:00:01,333",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 36,
+        "start_time": "00:00:01,200",
+        "end_time": "00:00:01,366",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 37,
+        "start_time": "00:00:01,233",
+        "end_time": "00:00:01,400",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 38,
+        "start_time": "00:00:01,266",
+        "end_time": "00:00:01,433",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 39,
+        "start_time": "00:00:01,300",
+        "end_time": "00:00:01,466",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 40,
+        "start_time": "00:00:01,333",
+        "end_time": "00:00:01,500",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 41,
+        "start_time": "00:00:01,366",
+        "end_time": "00:00:01,533",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 42,
+        "start_time": "00:00:01,400",
+        "end_time": "00:00:01,566",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 43,
+        "start_time": "00:00:01,433",
+        "end_time": "00:00:01,600",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 44,
+        "start_time": "00:00:01,466",
+        "end_time": "00:00:01,633",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 45,
+        "start_time": "00:00:01,500",
+        "end_time": "00:00:01,666",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 46,
+        "start_time": "00:00:01,533",
+        "end_time": "00:00:01,700",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 47,
+        "start_time": "00:00:01,566",
+        "end_time": "00:00:01,733",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 48,
+        "start_time": "00:00:01,600",
+        "end_time": "00:00:01,766",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 49,
+        "start_time": "00:00:01,633",
+        "end_time": "00:00:01,800",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 144,
+        "start_time": "00:00:04,800",
+        "end_time": "00:00:04,966",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 145,
+        "start_time": "00:00:04,833",
+        "end_time": "00:00:05,000",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 146,
+        "start_time": "00:00:04,866",
+        "end_time": "00:00:05,033",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 2,
+            "helmet_found": 0,
+            "no_helmet": 2,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 2,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 147,
+        "start_time": "00:00:04,900",
+        "end_time": "00:00:05,066",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 2,
+            "helmet_found": 1,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 2,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 148,
+        "start_time": "00:00:04,933",
+        "end_time": "00:00:05,100",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 2,
+            "helmet_found": 1,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 2,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 149,
+        "start_time": "00:00:04,966",
+        "end_time": "00:00:05,133",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 2,
+            "helmet_found": 2,
+            "no_helmet": 0,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 2,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 150,
+        "start_time": "00:00:05,000",
+        "end_time": "00:00:05,166",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 3,
+            "helmet_found": 1,
+            "no_helmet": 2,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 151,
+        "start_time": "00:00:05,033",
+        "end_time": "00:00:05,200",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 3,
+            "helmet_found": 0,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 1,
+            "no_safety_vest_or_suit": 2,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 152,
+        "start_time": "00:00:05,066",
+        "end_time": "00:00:05,233",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 3,
+            "helmet_found": 0,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 1,
+            "no_safety_vest_or_suit": 2,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 153,
+        "start_time": "00:00:05,100",
+        "end_time": "00:00:05,266",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 3,
+            "helmet_found": 0,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 154,
+        "start_time": "00:00:05,133",
+        "end_time": "00:00:05,300",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 3,
+            "helmet_found": 0,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 155,
+        "start_time": "00:00:05,166",
+        "end_time": "00:00:05,333",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 3,
+            "helmet_found": 1,
+            "no_helmet": 2,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 156,
+        "start_time": "00:00:05,200",
+        "end_time": "00:00:05,366",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 3,
+            "helmet_found": 1,
+            "no_helmet": 2,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 157,
+        "start_time": "00:00:05,233",
+        "end_time": "00:00:05,400",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 3,
+            "helmet_found": 1,
+            "no_helmet": 2,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 158,
+        "start_time": "00:00:05,266",
+        "end_time": "00:00:05,433",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 3,
+            "helmet_found": 1,
+            "no_helmet": 2,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 159,
+        "start_time": "00:00:05,300",
+        "end_time": "00:00:05,466",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 3,
+            "helmet_found": 2,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 160,
+        "start_time": "00:00:05,333",
+        "end_time": "00:00:05,500",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 3,
+            "helmet_found": 1,
+            "no_helmet": 2,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 161,
+        "start_time": "00:00:05,366",
+        "end_time": "00:00:05,533",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 1,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 4,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 162,
+        "start_time": "00:00:05,400",
+        "end_time": "00:00:05,566",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 1,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 4,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 163,
+        "start_time": "00:00:05,433",
+        "end_time": "00:00:05,600",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 1,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 4,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 164,
+        "start_time": "00:00:05,466",
+        "end_time": "00:00:05,633",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 6,
+            "helmet_found": 1,
+            "no_helmet": 5,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 6,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 165,
+        "start_time": "00:00:05,500",
+        "end_time": "00:00:05,666",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 5,
+            "helmet_found": 1,
+            "no_helmet": 4,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 5,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 166,
+        "start_time": "00:00:05,533",
+        "end_time": "00:00:05,700",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 5,
+            "helmet_found": 0,
+            "no_helmet": 5,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 5,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 167,
+        "start_time": "00:00:05,566",
+        "end_time": "00:00:05,733",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 5,
+            "helmet_found": 1,
+            "no_helmet": 4,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 5,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 168,
+        "start_time": "00:00:05,600",
+        "end_time": "00:00:05,766",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 1,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 4,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 169,
+        "start_time": "00:00:05,633",
+        "end_time": "00:00:05,800",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 7,
+            "helmet_found": 1,
+            "no_helmet": 6,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 7,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 170,
+        "start_time": "00:00:05,666",
+        "end_time": "00:00:05,833",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 1,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 4,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 171,
+        "start_time": "00:00:05,700",
+        "end_time": "00:00:05,866",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 1,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 4,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 172,
+        "start_time": "00:00:05,733",
+        "end_time": "00:00:05,900",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 0,
+            "no_helmet": 4,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 4,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 173,
+        "start_time": "00:00:05,766",
+        "end_time": "00:00:05,933",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 2,
+            "helmet_found": 0,
+            "no_helmet": 2,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 2,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 174,
+        "start_time": "00:00:05,800",
+        "end_time": "00:00:05,966",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 3,
+            "helmet_found": 0,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 175,
+        "start_time": "00:00:05,833",
+        "end_time": "00:00:06,000",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 3,
+            "helmet_found": 0,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 176,
+        "start_time": "00:00:05,866",
+        "end_time": "00:00:06,033",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 3,
+            "helmet_found": 0,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 177,
+        "start_time": "00:00:05,900",
+        "end_time": "00:00:06,066",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 2,
+            "helmet_found": 0,
+            "no_helmet": 2,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 2,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 178,
+        "start_time": "00:00:05,933",
+        "end_time": "00:00:06,100",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 2,
+            "helmet_found": 0,
+            "no_helmet": 2,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 2,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 179,
+        "start_time": "00:00:05,966",
+        "end_time": "00:00:06,133",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 0,
+            "no_helmet": 4,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 4,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 180,
+        "start_time": "00:00:06,000",
+        "end_time": "00:00:06,166",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 5,
+            "helmet_found": 0,
+            "no_helmet": 5,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 5,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 181,
+        "start_time": "00:00:06,033",
+        "end_time": "00:00:06,200",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 5,
+            "helmet_found": 0,
+            "no_helmet": 5,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 5,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 182,
+        "start_time": "00:00:06,066",
+        "end_time": "00:00:06,233",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 0,
+            "no_helmet": 4,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 4,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 183,
+        "start_time": "00:00:06,100",
+        "end_time": "00:00:06,266",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 0,
+            "no_helmet": 4,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 4,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 184,
+        "start_time": "00:00:06,133",
+        "end_time": "00:00:06,300",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 3,
+            "helmet_found": 0,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 185,
+        "start_time": "00:00:06,166",
+        "end_time": "00:00:06,333",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 0,
+            "no_helmet": 4,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 4,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 186,
+        "start_time": "00:00:06,200",
+        "end_time": "00:00:06,366",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 3,
+            "helmet_found": 0,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 187,
+        "start_time": "00:00:06,233",
+        "end_time": "00:00:06,400",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 3,
+            "helmet_found": 0,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 2,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 188,
+        "start_time": "00:00:06,266",
+        "end_time": "00:00:06,433",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 0,
+            "no_helmet": 4,
+            "safety_vest_or_suit_found": 1,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 189,
+        "start_time": "00:00:06,300",
+        "end_time": "00:00:06,466",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 0,
+            "no_helmet": 4,
+            "safety_vest_or_suit_found": 2,
+            "no_safety_vest_or_suit": 2,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 190,
+        "start_time": "00:00:06,333",
+        "end_time": "00:00:06,500",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 3,
+            "helmet_found": 0,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 1,
+            "no_safety_vest_or_suit": 2,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 191,
+        "start_time": "00:00:06,366",
+        "end_time": "00:00:06,533",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 0,
+            "no_helmet": 4,
+            "safety_vest_or_suit_found": 1,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 192,
+        "start_time": "00:00:06,400",
+        "end_time": "00:00:06,566",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 3,
+            "helmet_found": 0,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 1,
+            "no_safety_vest_or_suit": 2,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 193,
+        "start_time": "00:00:06,433",
+        "end_time": "00:00:06,600",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 0,
+            "no_helmet": 4,
+            "safety_vest_or_suit_found": 1,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 194,
+        "start_time": "00:00:06,466",
+        "end_time": "00:00:06,633",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 0,
+            "no_helmet": 4,
+            "safety_vest_or_suit_found": 1,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 195,
+        "start_time": "00:00:06,500",
+        "end_time": "00:00:06,666",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 3,
+            "helmet_found": 0,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 1,
+            "no_safety_vest_or_suit": 2,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 196,
+        "start_time": "00:00:06,533",
+        "end_time": "00:00:06,700",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 1,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 4,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 197,
+        "start_time": "00:00:06,566",
+        "end_time": "00:00:06,733",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 0,
+            "no_helmet": 4,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 4,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 198,
+        "start_time": "00:00:06,600",
+        "end_time": "00:00:06,766",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 1,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 1,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 199,
+        "start_time": "00:00:06,633",
+        "end_time": "00:00:06,800",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 5,
+            "helmet_found": 0,
+            "no_helmet": 5,
+            "safety_vest_or_suit_found": 1,
+            "no_safety_vest_or_suit": 4,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 200,
+        "start_time": "00:00:06,666",
+        "end_time": "00:00:06,833",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 6,
+            "helmet_found": 2,
+            "no_helmet": 4,
+            "safety_vest_or_suit_found": 1,
+            "no_safety_vest_or_suit": 5,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 201,
+        "start_time": "00:00:06,700",
+        "end_time": "00:00:06,866",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 6,
+            "helmet_found": 0,
+            "no_helmet": 6,
+            "safety_vest_or_suit_found": 1,
+            "no_safety_vest_or_suit": 5,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 202,
+        "start_time": "00:00:06,733",
+        "end_time": "00:00:06,900",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 5,
+            "helmet_found": 1,
+            "no_helmet": 4,
+            "safety_vest_or_suit_found": 1,
+            "no_safety_vest_or_suit": 4,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 203,
+        "start_time": "00:00:06,766",
+        "end_time": "00:00:06,933",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 1,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 1,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 204,
+        "start_time": "00:00:06,800",
+        "end_time": "00:00:06,966",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 0,
+            "no_helmet": 4,
+            "safety_vest_or_suit_found": 1,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 205,
+        "start_time": "00:00:06,833",
+        "end_time": "00:00:07,000",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 6,
+            "helmet_found": 1,
+            "no_helmet": 5,
+            "safety_vest_or_suit_found": 2,
+            "no_safety_vest_or_suit": 4,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 206,
+        "start_time": "00:00:06,866",
+        "end_time": "00:00:07,033",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 1,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 2,
+            "no_safety_vest_or_suit": 2,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 207,
+        "start_time": "00:00:06,900",
+        "end_time": "00:00:07,066",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 5,
+            "helmet_found": 1,
+            "no_helmet": 4,
+            "safety_vest_or_suit_found": 1,
+            "no_safety_vest_or_suit": 4,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 208,
+        "start_time": "00:00:06,933",
+        "end_time": "00:00:07,100",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 1,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 1,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 209,
+        "start_time": "00:00:06,966",
+        "end_time": "00:00:07,133",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 0,
+            "no_helmet": 4,
+            "safety_vest_or_suit_found": 1,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 210,
+        "start_time": "00:00:07,000",
+        "end_time": "00:00:07,166",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 5,
+            "helmet_found": 0,
+            "no_helmet": 5,
+            "safety_vest_or_suit_found": 1,
+            "no_safety_vest_or_suit": 4,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 211,
+        "start_time": "00:00:07,033",
+        "end_time": "00:00:07,200",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 5,
+            "helmet_found": 0,
+            "no_helmet": 5,
+            "safety_vest_or_suit_found": 1,
+            "no_safety_vest_or_suit": 4,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 212,
+        "start_time": "00:00:07,066",
+        "end_time": "00:00:07,233",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 5,
+            "helmet_found": 1,
+            "no_helmet": 4,
+            "safety_vest_or_suit_found": 1,
+            "no_safety_vest_or_suit": 4,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 213,
+        "start_time": "00:00:07,100",
+        "end_time": "00:00:07,266",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 1,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 1,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 214,
+        "start_time": "00:00:07,133",
+        "end_time": "00:00:07,300",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 1,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 4,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 215,
+        "start_time": "00:00:07,166",
+        "end_time": "00:00:07,333",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 5,
+            "helmet_found": 0,
+            "no_helmet": 5,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 5,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 216,
+        "start_time": "00:00:07,200",
+        "end_time": "00:00:07,366",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 1,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 4,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 217,
+        "start_time": "00:00:07,233",
+        "end_time": "00:00:07,400",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 5,
+            "helmet_found": 1,
+            "no_helmet": 4,
+            "safety_vest_or_suit_found": 1,
+            "no_safety_vest_or_suit": 4,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 218,
+        "start_time": "00:00:07,266",
+        "end_time": "00:00:07,433",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 1,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 1,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 219,
+        "start_time": "00:00:07,300",
+        "end_time": "00:00:07,466",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 4,
+            "helmet_found": 3,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 1,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 220,
+        "start_time": "00:00:07,333",
+        "end_time": "00:00:07,500",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 5,
+            "helmet_found": 0,
+            "no_helmet": 5,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 5,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 221,
+        "start_time": "00:00:07,366",
+        "end_time": "00:00:07,533",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 3,
+            "helmet_found": 0,
+            "no_helmet": 3,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 222,
+        "start_time": "00:00:07,400",
+        "end_time": "00:00:07,566",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 2,
+            "helmet_found": 0,
+            "no_helmet": 2,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 2,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 223,
+        "start_time": "00:00:07,433",
+        "end_time": "00:00:07,600",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 2,
+            "helmet_found": 0,
+            "no_helmet": 2,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 2,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 224,
+        "start_time": "00:00:07,466",
+        "end_time": "00:00:07,633",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 3,
+            "helmet_found": 1,
+            "no_helmet": 2,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 3,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 256,
+        "start_time": "00:00:08,533",
+        "end_time": "00:00:08,700",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 257,
+        "start_time": "00:00:08,566",
+        "end_time": "00:00:08,733",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 258,
+        "start_time": "00:00:08,600",
+        "end_time": "00:00:08,766",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 2,
+            "helmet_found": 0,
+            "no_helmet": 2,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 2,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 259,
+        "start_time": "00:00:08,633",
+        "end_time": "00:00:08,800",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 2,
+            "helmet_found": 0,
+            "no_helmet": 2,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 2,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 260,
+        "start_time": "00:00:08,666",
+        "end_time": "00:00:08,833",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 261,
+        "start_time": "00:00:08,700",
+        "end_time": "00:00:08,866",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 262,
+        "start_time": "00:00:08,733",
+        "end_time": "00:00:08,900",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 263,
+        "start_time": "00:00:08,766",
+        "end_time": "00:00:08,933",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 264,
+        "start_time": "00:00:08,800",
+        "end_time": "00:00:08,966",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 265,
+        "start_time": "00:00:08,833",
+        "end_time": "00:00:09,000",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 266,
+        "start_time": "00:00:08,866",
+        "end_time": "00:00:09,033",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 267,
+        "start_time": "00:00:08,900",
+        "end_time": "00:00:09,066",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 2,
+            "helmet_found": 0,
+            "no_helmet": 2,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 2,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 268,
+        "start_time": "00:00:08,933",
+        "end_time": "00:00:09,100",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 269,
+        "start_time": "00:00:08,966",
+        "end_time": "00:00:09,133",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 270,
+        "start_time": "00:00:09,000",
+        "end_time": "00:00:09,166",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 271,
+        "start_time": "00:00:09,033",
+        "end_time": "00:00:09,200",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 272,
+        "start_time": "00:00:09,066",
+        "end_time": "00:00:09,233",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 273,
+        "start_time": "00:00:09,100",
+        "end_time": "00:00:09,266",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 274,
+        "start_time": "00:00:09,133",
+        "end_time": "00:00:09,300",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 275,
+        "start_time": "00:00:09,166",
+        "end_time": "00:00:09,333",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 276,
+        "start_time": "00:00:09,200",
+        "end_time": "00:00:09,366",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 277,
+        "start_time": "00:00:09,233",
+        "end_time": "00:00:09,400",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 278,
+        "start_time": "00:00:09,266",
+        "end_time": "00:00:09,433",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 279,
+        "start_time": "00:00:09,300",
+        "end_time": "00:00:09,466",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 280,
+        "start_time": "00:00:09,333",
+        "end_time": "00:00:09,500",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 281,
+        "start_time": "00:00:09,366",
+        "end_time": "00:00:09,533",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 282,
+        "start_time": "00:00:09,400",
+        "end_time": "00:00:09,566",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 283,
+        "start_time": "00:00:09,433",
+        "end_time": "00:00:09,600",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 284,
+        "start_time": "00:00:09,466",
+        "end_time": "00:00:09,633",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 285,
+        "start_time": "00:00:09,500",
+        "end_time": "00:00:09,666",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 286,
+        "start_time": "00:00:09,533",
+        "end_time": "00:00:09,700",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 287,
+        "start_time": "00:00:09,566",
+        "end_time": "00:00:09,733",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 288,
+        "start_time": "00:00:09,600",
+        "end_time": "00:00:09,766",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 289,
+        "start_time": "00:00:09,633",
+        "end_time": "00:00:09,800",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 290,
+        "start_time": "00:00:09,666",
+        "end_time": "00:00:09,833",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 291,
+        "start_time": "00:00:09,700",
+        "end_time": "00:00:09,866",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 292,
+        "start_time": "00:00:09,733",
+        "end_time": "00:00:09,900",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 293,
+        "start_time": "00:00:09,766",
+        "end_time": "00:00:09,933",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 294,
+        "start_time": "00:00:09,800",
+        "end_time": "00:00:09,966",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 295,
+        "start_time": "00:00:09,833",
+        "end_time": "00:00:10,000",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 296,
+        "start_time": "00:00:09,866",
+        "end_time": "00:00:10,033",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 297,
+        "start_time": "00:00:09,900",
+        "end_time": "00:00:10,066",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 298,
+        "start_time": "00:00:09,933",
+        "end_time": "00:00:10,100",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 299,
+        "start_time": "00:00:09,966",
+        "end_time": "00:00:10,133",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 300,
+        "start_time": "00:00:10,000",
+        "end_time": "00:00:10,166",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 301,
+        "start_time": "00:00:10,033",
+        "end_time": "00:00:10,200",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 302,
+        "start_time": "00:00:10,066",
+        "end_time": "00:00:10,233",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 305,
+        "start_time": "00:00:10,166",
+        "end_time": "00:00:10,333",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 306,
+        "start_time": "00:00:10,200",
+        "end_time": "00:00:10,366",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 308,
+        "start_time": "00:00:10,266",
+        "end_time": "00:00:10,433",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 309,
+        "start_time": "00:00:10,300",
+        "end_time": "00:00:10,466",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 310,
+        "start_time": "00:00:10,333",
+        "end_time": "00:00:10,500",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 311,
+        "start_time": "00:00:10,366",
+        "end_time": "00:00:10,533",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 312,
+        "start_time": "00:00:10,400",
+        "end_time": "00:00:10,566",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 313,
+        "start_time": "00:00:10,433",
+        "end_time": "00:00:10,600",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 2,
+            "helmet_found": 0,
+            "no_helmet": 2,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 2,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 314,
+        "start_time": "00:00:10,466",
+        "end_time": "00:00:10,633",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 315,
+        "start_time": "00:00:10,500",
+        "end_time": "00:00:10,666",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 2,
+            "helmet_found": 0,
+            "no_helmet": 2,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 2,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 316,
+        "start_time": "00:00:10,533",
+        "end_time": "00:00:10,700",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 317,
+        "start_time": "00:00:10,566",
+        "end_time": "00:00:10,733",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 318,
+        "start_time": "00:00:10,600",
+        "end_time": "00:00:10,766",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 319,
+        "start_time": "00:00:10,633",
+        "end_time": "00:00:10,800",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 320,
+        "start_time": "00:00:10,666",
+        "end_time": "00:00:10,833",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 321,
+        "start_time": "00:00:10,700",
+        "end_time": "00:00:10,866",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 322,
+        "start_time": "00:00:10,733",
+        "end_time": "00:00:10,900",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 323,
+        "start_time": "00:00:10,766",
+        "end_time": "00:00:10,933",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 324,
+        "start_time": "00:00:10,800",
+        "end_time": "00:00:10,966",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 325,
+        "start_time": "00:00:10,833",
+        "end_time": "00:00:11,000",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 326,
+        "start_time": "00:00:10,866",
+        "end_time": "00:00:11,033",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 327,
+        "start_time": "00:00:10,900",
+        "end_time": "00:00:11,066",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    },
+    {
+        "frame": 328,
+        "start_time": "00:00:10,933",
+        "end_time": "00:00:11,100",
+        "violation_type": "CRITICAL",
+        "details": {
+            "persons_detected": 1,
+            "helmet_found": 0,
+            "no_helmet": 1,
+            "safety_vest_or_suit_found": 0,
+            "no_safety_vest_or_suit": 1,
+            "note": "Someone is Not Wearing The Most Critical PPE items. Take action immediately!"
+        }
+    }
+]
