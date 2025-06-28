@@ -60,7 +60,7 @@ PPE_And_Construction_Datasets_Merged:
 
 ## Model Training and Results
 
-I trained my model with Nvidia A100 40 GB GPU in Google Colab Pro+ environment by using train.py script during 200 epochs with special augmentations and albumenations and 17026 images in the "PPE_And_Construction_Datasets_Merged" dataset. I used this GPU in full capacity. I used YOLOv9 object detection model. I applied special augmentations and albumenations. The results are very satisfactory after training.  
+- I trained my model with Nvidia A100 40 GB GPU in Google Colab Pro+ environment by using train.py script during 200 epochs with special augmentations and albumenations and 17026 images in the "PPE_And_Construction_Datasets_Merged" dataset. I used this GPU in full capacity. I used YOLOv9 object detection model. I applied special augmentations and albumenations. The results are very satisfactory after training.  
 ------------------------------------------------  
 | Highest mAP50            | Highest mAP50-95  |  
 |--------------------------|------------------ |  
