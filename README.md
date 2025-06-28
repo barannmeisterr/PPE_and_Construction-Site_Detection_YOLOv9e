@@ -24,19 +24,19 @@ Thus, both datasets complement each other:
 • ACID supports proximity violation detection to prevent machinery-related accidents.  
 By combining insights from both datasets, the system creates a comprehensive safety monitoring solution that addresses both human-based (PPE) and environment-based (machinery) risks in construction and industrial sites.  
 1) SH17 Dataset  
-•Dataset Name and Source: SH17, Source: https://www.kaggle.com/datasets/mugheesahmad/sh17-dataset-for-ppe-detection 
-•Number of Samples and Features: 8099 samples of 17 different objects related to person and PPE items  
+• Dataset Name and Source: SH17, Source: https://www.kaggle.com/datasets/mugheesahmad/sh17-dataset-for-ppe-detection                            
+• Number of Samples and Features: 8099 samples of 17 different objects related to person and PPE items  
 • Number of Images:8099
 • Number of classes:17
-•Type of Data: Image  
-•Target Variable: Object Detection  
+• Type of Data: Image  
+• Target Variable: Object Detection  
 2) ACID Dataset  
-•Dataset Name and Source: ACID, Source: https://universe.roboflow.com/test-blhxw/acid-dataset/dataset/1  
-•Number of Samples and Features: 8927 samples(only train and val images are used) of 10 different objects related to heavy operational machines in construction areas.  
+• Dataset Name and Source: ACID, Source: https://universe.roboflow.com/test-blhxw/acid-dataset/dataset/1  
+• Number of Samples and Features: 8927 samples(only train and val images are used) of 10 different objects related to heavy operational machines in construction areas.  
 • Number of Images:8927
 • Number of classes:10
-•Type of Data: Image  
-•Target Variable: Object Detection
+• Type of Data: Image
+• Target Variable: Object Detection
 
 ## Data Processing
 
