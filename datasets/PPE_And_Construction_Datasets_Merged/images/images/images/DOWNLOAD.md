@@ -3,5 +3,5 @@ This folder stores training and val images together.All images in SH17 and All i
 ##  Datasets Download Links
 
 
-- [SH17](https://www.kaggle.com/datasets/mugheesahmad/sh17-dataset-for-ppe-detection))
-- [ACID](https://universe.roboflow.com/test-blhxw/acid-dataset/dataset/1))
+- [SH17](https://www.kaggle.com/datasets/mugheesahmad/sh17-dataset-for-ppe-detection)
+- [ACID](https://universe.roboflow.com/test-blhxw/acid-dataset/dataset/1)
